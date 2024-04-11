@@ -1,5 +1,0 @@
-/Users/adamhooven/1260CICD/UTExample/Tests/obj/Debug/net7.0/Tests.csproj.AssemblyReference.cache
-/Users/adamhooven/1260CICD/UTExample/Tests/obj/Debug/net7.0/Tests.GeneratedMSBuildEditorConfig.editorconfig
-/Users/adamhooven/1260CICD/UTExample/Tests/obj/Debug/net7.0/Tests.AssemblyInfoInputs.cache
-/Users/adamhooven/1260CICD/UTExample/Tests/obj/Debug/net7.0/Tests.AssemblyInfo.cs
-/Users/adamhooven/1260CICD/UTExample/Tests/obj/Debug/net7.0/Tests.csproj.CoreCompileInputs.cache
