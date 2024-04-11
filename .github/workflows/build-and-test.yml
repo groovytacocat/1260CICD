@@ -36,4 +36,5 @@ jobs:
       working-directory: BankAccount
 
     - name: Test
-      run: dotnet test --no-restore --verbosity normal
+      run: dotnet test --no-restore --verbosity normal BankTest.csproj
+      working-directory: BankTest
