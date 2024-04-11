@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kkyq4wypfCQgz0YGNeDzXbQdJYlVmYC8oHXcaQyU/Ji7kZ16VeNGO3iO/H/jBxjkBzDvsvjfhgiYc4SsvtS83Q==",
+  "success": true,
+  "projectFilePath": "/Users/adamhooven/1260CICD/UTExample/UTExample/UTExample.csproj",
+  "expectedPackageFiles": [
+    "/Users/adamhooven/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/Users/adamhooven/.nuget/packages/moq/4.20.70/moq.4.20.70.nupkg.sha512",
+    "/Users/adamhooven/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
