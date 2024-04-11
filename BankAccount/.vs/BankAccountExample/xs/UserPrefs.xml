@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{71636975-3BC9-4D62-96B5-9EDD19A011F7}|Default">
+  <MonoDevelop.Ide.ItemProperties.BankTest FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.BankAccount FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
