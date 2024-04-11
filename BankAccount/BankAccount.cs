@@ -7,7 +7,7 @@ namespace BankAccountNS
     /// </summary>
     public class BankAccount
     {
-        private readonly string m_customerName;
+        private readonly string? m_customerName;
         private double m_balance;
 
         private BankAccount() { }
