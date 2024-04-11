@@ -32,7 +32,8 @@ jobs:
       working-directory: BankAccount
 
     - name: Build
-      run: dotnet build --configuration Release --no-restore
-    
+      run: dotnet build --configuration Release --no-restore BankAccountExample.sln
+      working-directory: BankAccount
+
     - name: Test
       run: dotnet test --no-restore --verbosity normal
