@@ -1,4 +1,9 @@
 /Users/adamhooven/1260CICD/BankTest/bin/Debug/net7.0/CoverletSourceRootsMapping
+/Users/adamhooven/1260CICD/BankTest/obj/Debug/net7.0/BankTest.csproj.AssemblyReference.cache
+/Users/adamhooven/1260CICD/BankTest/obj/Debug/net7.0/BankTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adamhooven/1260CICD/BankTest/obj/Debug/net7.0/BankTest.AssemblyInfoInputs.cache
+/Users/adamhooven/1260CICD/BankTest/obj/Debug/net7.0/BankTest.AssemblyInfo.cs
+/Users/adamhooven/1260CICD/BankTest/obj/Debug/net7.0/BankTest.csproj.CoreCompileInputs.cache
 /Users/adamhooven/1260CICD/BankTest/bin/Debug/net7.0/BankAccount.deps.json
 /Users/adamhooven/1260CICD/BankTest/bin/Debug/net7.0/BankAccount.runtimeconfig.json
 /Users/adamhooven/1260CICD/BankTest/bin/Debug/net7.0/BankAccount
@@ -96,11 +101,6 @@
 /Users/adamhooven/1260CICD/BankTest/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 /Users/adamhooven/1260CICD/BankTest/bin/Debug/net7.0/BankAccount.pdb
 /Users/adamhooven/1260CICD/BankTest/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
-/Users/adamhooven/1260CICD/BankTest/obj/Debug/net7.0/BankTest.csproj.AssemblyReference.cache
-/Users/adamhooven/1260CICD/BankTest/obj/Debug/net7.0/BankTest.GeneratedMSBuildEditorConfig.editorconfig
-/Users/adamhooven/1260CICD/BankTest/obj/Debug/net7.0/BankTest.AssemblyInfoInputs.cache
-/Users/adamhooven/1260CICD/BankTest/obj/Debug/net7.0/BankTest.AssemblyInfo.cs
-/Users/adamhooven/1260CICD/BankTest/obj/Debug/net7.0/BankTest.csproj.CoreCompileInputs.cache
 /Users/adamhooven/1260CICD/BankTest/obj/Debug/net7.0/BankTest.csproj.CopyComplete
 /Users/adamhooven/1260CICD/BankTest/obj/Debug/net7.0/BankTest.dll
 /Users/adamhooven/1260CICD/BankTest/obj/Debug/net7.0/refint/BankTest.dll

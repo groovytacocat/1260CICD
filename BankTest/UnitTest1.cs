@@ -24,5 +24,36 @@ namespace BankTests
             double actual = account.Balance;
             Assert.AreEqual(expected, actual, 0.001, "Account not debited correctly");
         }
+
+        //Using Moq
+        [TestMethod]
+        public void Debit_WithInvalidAmount_ThrowsException()
+        {
+            //Arrange
+            double beginningBalance = 11.99;
+            double debitAmount = 12.00;
+
+            var mockAcct = new Mock<BankAccount>("Mr. Bryan Walton", beginningBalance);
+
+            // Act/Assert
+            Assert.ThrowsException<ArgumentOutOfRangeException>(() => mockAcct.Object.Debit(debitAmount));
+
+        }
+
+        [TestMethod]
+        public void Credit_WithValidAmount_UpdatesBalance()
+        {
+            //Arrange
+            double startBal = 11.99;
+            double depoAmt = 100.00;
+            var mockAcct = new Mock<BankAccount>("Mr. Bryan Walton", startBal);
+
+            //Act
+            mockAcct.Object.Credit(depoAmt);
+
+            //Assert
+            Assert.AreEqual(startBal + depoAmt, mockAcct.Object.Balance);
+
+        }
     }
 }
