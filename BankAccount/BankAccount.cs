@@ -57,8 +57,8 @@ namespace BankAccountNS
         {
             BankAccount ba = new BankAccount("Mr. Bryan Walton", 11.99);
 
-            ba.Credit(1.00);
-            ba.Debit(-100.00);
+            ba.Credit(0.01);
+            ba.Debit(10.0);
             Console.WriteLine("Current balance is ${0}", ba.Balance);
         }
     }
