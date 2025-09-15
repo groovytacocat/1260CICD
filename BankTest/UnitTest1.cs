@@ -31,7 +31,7 @@ namespace BankTests
         {
             //Arrange
             double beginningBalance = 11.99;
-            double debitAmount = 12.00;
+            double debitAmount = 1.00;
 
             var mockAcct = new Mock<BankAccount>("Mr. Bryan Walton", beginningBalance);
 
